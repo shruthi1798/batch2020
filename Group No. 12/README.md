@@ -19,7 +19,7 @@ tkinter has been used to give the user an intuitive approach to use the applicat
 
 ### How to Run
 Clone/Download the zip of the Repository and run StockMarketPrediction_GUI.py with python3. 
-python2 won't work as tkinter has been used which works with python3 only. 
+python2 won't work as tkinter has been used which works with python3 only.
 
 ### Notebooks
 The notebooks for each algorithm have been provided explaning each step of the entire process.
