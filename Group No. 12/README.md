@@ -23,5 +23,5 @@ Clone/Download the zip of the Repository and run StockMarketPrediction_GUI.py wi
 python2 won't work as tkinter has been used which works with python3 only.
 
 ### Notebooks
-The notebooks for each algorithm have been provided explaning each step of the entire process.
+The notebooks for each Regression algorithm have been provided explaning each step of the entire process.
 
