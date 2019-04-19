@@ -1,5 +1,4 @@
 from tkinter import *
-import os
 
 def prediction(a, b):
 
